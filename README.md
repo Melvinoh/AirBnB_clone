@@ -22,6 +22,6 @@ At the moment, we have 7 models: BaseModel, User, State, City, Amenity, Place, a
 
 AUTHORS
 ---
-+ Richard Ouma
-+ Rachael Kivuti
++ Muturi Melvin
++ Kelvin Githu
 
